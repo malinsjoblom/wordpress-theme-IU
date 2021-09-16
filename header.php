@@ -65,4 +65,4 @@
             </div>
         </nav>
 
-		<?php get_sidebar(); ?>
+		
